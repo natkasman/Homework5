@@ -9,8 +9,8 @@ function setup() {
     for (var i = 0; i < 100; i++) {
     x[i] = 230;
     y[i] = 220;
-    ySpeed[i] = random(6, 4);
-    diameter[i] = random(10, 2);
+    ySpeed[i] = random(5, 4);
+    diameter[i] = random(1, 20);
   }
 }
   
